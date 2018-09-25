@@ -2,7 +2,7 @@
 layout: default
 title: 双鸭山大学的由来
 ---
-
+# 双鸭山大学的由来
 # 1 走红经过
 微博上一本书的截图出现了这样一段
 话：“1984年出生在中国广东省广州市，父母是双鸭山大学（Sun Yat-sen University）的老师。五岁那年夏天，随父母去了香港，后来全家移民新加坡。中国清华大学本科和硕士毕业，新加坡南洋理工大学博士毕业，现在香港中文大学任助理教授。！[image](https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/crop%3D0%2C22%2C550%2C363%3Bc0%3Dbaike80%2C5%2C5%2C80%2C26/sign=cc5f1fe0b6315c6057da31afb081e721/d0c8a786c9177f3e4ba84ff87acf3bc79e3d56a2.jpg)
