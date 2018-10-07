@@ -26,4 +26,4 @@ title : 用Construct2制作Ghost Shooter游戏
 ![image](http://m.qpic.cn/psb?/V11lkfIM05bhcV/Veg04GOL1etIpCJRtsj1qugAd3Y1MyIoS62RB4BC1uE!/b/dEYBAAAAAAAA&bo=tgObAgAAAAARBxw!&rf=viewer_4)
 # 4 运行游戏
 制作好游戏后，我们点击左上方Run layout按钮![image](http://a1.qpic.cn/psb?/V11lkfIM05bhcV/grTZv5v.ZfJym00UnQEMMMJfpXu8UvFLrYAwI7U9NqI!/m/dDQBAAAAAAAAnull&bo=3QAmAAAAAAARB8s!&rf=photolist&t=5)
-![gif](http://m.qpic.cn/psb?/V11lkfIM05bhcV/8332aZAaHNSkgwA3ITPCt.GEhe.sTqt8iIA21KHochA!/b/dDEBAAAAAAAA&bo=8ALIAQAAAAARFxs!&rf=viewer_4)
+![gif](http://a2.qpic.cn/psb?/V11lkfIM05bhcV/9APzAke4Cczy6.I3Bg43Tv*ZBA12zMas4HQL3uUVx.E!/c/dFkAAAAAAAAA&ek=1&kp=1&pt=0&bo=8ALIAQAAAAACV0g!&tl=1&vuin=1196272800&tm=1538877600&sce=60-2-2&rf=viewer_4)
