@@ -13,7 +13,7 @@
 6、在adress 10 中输入STO Y；将结果存入Y中。
 ![image](http://a3.qpic.cn/psb?/V11lkfIM05bhcV/MCq45jTN9Kwx4bNtmp*3RpI7*setfahBwUDECvtuRzA!/b/dFIBAAAAAAAA&ek=1&kp=1&pt=0&bo=XQJcAQAAAAARFyI!&tl=3&vuin=1196272800&tm=1541646000&sce=60-2-2&rf=viewer_4)
 # 实验小结
-
+初步理解了机器指令的构成，用汇编语言编写了第一个简单程序，理解了高级语言与机器语言的联系与区别。
 # 任务 1：简单程序
 ## 1、点step after step。观察并回答下面问题
 ### 1 pc寄存器与ir寄存器的作用
