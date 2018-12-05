@@ -1,6 +1,6 @@
 # 风投
 风险投资（英语：Venture Capital，缩写为VC）简称风投，又译称为创业投资，主要是指向初创企业提供资金支持并取得该公司股份的一种融资方式。风险投资是私人股权投资的一种形式。    
-![image](https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=290287dcf9edab64607f4592965fc4a6/14ce36d3d539b600b7fef6a0eb50352ac65cb7f1.jpg)           
+![image](https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=290287dcf9edab64607f4592965fc4a6/14ce36d3d539b600b7fef6a0eb50352ac65cb7f1.jpg)        
 # 风投成功的案例         
 ## 软银投资阿里巴巴    
 2014年，阿里巴巴股票筹资额达到220亿美元，这依旧是迄今为止最大规模的首次公开募股。在2000年，日本电信巨头SoftBank给阿里巴巴投资了2000万美元，持有34%的股份。这次IPO让阿里巴巴的市值达到了2310亿美元，而软银在阿里持有的股份价值也超过了600亿美元。          
